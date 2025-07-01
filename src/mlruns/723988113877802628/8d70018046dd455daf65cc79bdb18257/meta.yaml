@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nahom/Desktop/Others/KAIM/Kifya_Training/week_5/credit_risk_model/src/mlruns/723988113877802628/8d70018046dd455daf65cc79bdb18257/artifacts
+end_time: 1751371295469
+entry_point_name: ''
+experiment_id: '723988113877802628'
+lifecycle_stage: active
+run_id: 8d70018046dd455daf65cc79bdb18257
+run_name: LogisticRegression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751371293371
+status: 3
+tags: []
+user_id: nahom
