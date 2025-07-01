@@ -1,0 +1,10 @@
+artifact_location: file:///home/nahom/Desktop/Others/KAIM/Kifya_Training/week_5/credit_risk_model/mlruns/468728191329987875/models/m-1b7a718842fa4c708a214f1fb27224a9/artifacts
+creation_timestamp: 1751380215148
+experiment_id: '468728191329987875'
+last_updated_timestamp: 1751380216741
+model_id: m-1b7a718842fa4c708a214f1fb27224a9
+model_type: null
+name: model
+source_run_id: 20362b07864e439f84330f8a3be33558
+status: 2
+status_message: null

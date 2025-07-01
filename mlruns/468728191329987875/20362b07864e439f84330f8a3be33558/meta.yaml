@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nahom/Desktop/Others/KAIM/Kifya_Training/week_5/credit_risk_model/mlruns/468728191329987875/20362b07864e439f84330f8a3be33558/artifacts
+end_time: 1751380216742
+entry_point_name: ""
+experiment_id: "468728191329987875"
+lifecycle_stage: active
+run_id: 20362b07864e439f84330f8a3be33558
+run_name: GradientBoosting_run
+source_name: ""
+source_type: 4
+source_version: ""
+start_time: 1751380214817
+status: 3
+tags: []
+user_id: nahom
